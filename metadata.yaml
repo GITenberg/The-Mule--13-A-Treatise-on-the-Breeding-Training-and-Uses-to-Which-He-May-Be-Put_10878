@@ -1,0 +1,23 @@
+_repo: The-Mule--13-A-Treatise-on-the-Breeding-Training-and-Uses-to-Which-He-May-Be-Put_10878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Riley, Harvey
+    gutenberg_agent_id: '3734'
+    url: http://www.gutenberg.org/2009/agents/3734
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mules'
+- !lcc 'SF'
+- GITenberg
+title: "The Mule\r\nA Treatise on the Breeding, Training, and Uses to Which He May\
+  \ Be Put"
+url: http://www.gutenberg.org/ebooks/10878
